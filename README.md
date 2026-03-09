@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Full Stack Developer · Backend Enthusiast · Fintech Builder</em><br/>
-  <em>Addis Ababa, Ethiopia 🇪🇹 · Currently @ Santimpay Financial Solutions</em>
+  <em>Addis Ababa, Ethiopia 🇪🇹</em>
 </p>
 
 <p align="center">
@@ -78,15 +78,6 @@ Passionate Full Stack Developer with a strong backend focus, building reliable a
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/koki-mekonnen&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/koki-mekonnen&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 😄 Hobbies & Interests
 
