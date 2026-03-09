@@ -1,27 +1,42 @@
-<h1 align="center">Hi, I'm Selamawit Mekonnen Tadele 👋</h1>
+<h1 align="center">👋 Hi, I'm Selamawit Mekonnen Tadele</h1>
 
 <p align="center">
-  <em>Full Stack Developer · Backend Enthusiast · Building clean, scalable systems</em>
+  <em>Full Stack Developer · Backend Enthusiast · Fintech Builder</em><br/>
+  <em>Addis Ababa, Ethiopia 🇪🇹 · Currently @ Santimpay Financial Solutions</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/selamawit-mekonnen-40186b236/">
+    <img src="https://img.shields.io/badge/LinkedIn-Selamawit_Mekonnen-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:test@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:ezanawittadele@gmail.com">
+    <img src="https://img.shields.io/badge/Email-test@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=koki-mekonnen&style=flat&color=grey" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 💡 About Me
 
-- 🔭 Full Stack Developer with a strong focus on **Backend Engineering**
-- 🌱 Currently working with **Golang**, **Spring Boot**, and **Vue.js / React.js**
-- 🗄️ Passionate about designing reliable **PostgreSQL** databases and clean APIs
-- 🐳 Experienced with **Docker** for containerized deployments
-- 📍 Based in Ethiopia | Open to remote opportunities
+Passionate Full Stack Developer with a strong backend focus, building reliable and scalable systems in the Fintech space. I enjoy crafting clean APIs, leading backend teams, and delivering payment infrastructure that works at scale.
+
+- 🏢 **Current Role:** Full Stack Developer @ **Santimpay Financial Solutions**
+- 💳 **Active Work:** Backend Developer on a **Payment Gateway for a Kenyan bank** @ Sanupay · Lead Backend Developer for a **Bank Mobile App** @ Novalut
+- 🌱 Currently deepening expertise in **Golang**, **Spring Boot**, and **distributed systems**
+- 🌍 Based in **Addis Ababa, Ethiopia**
+
+---
+
+## 🎓 Education
+
+- 🎓 **Bachelor of Computer Science** · Addis Ababa University
+
+---
+
+## 🌍 Fields of Interest
+
+`Full Stack Development` · `Backend Engineering` · `Fintech & Payments` · `DevOps` · `Distributed Systems`
 
 ---
 
@@ -34,6 +49,7 @@
 **Backend**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 **Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -45,37 +61,63 @@
 
 ---
 
+## 🏆 Experience
+
+| Role | Company |
+|------|---------|
+| 💻 Full Stack Developer | Santimpay Financial Solutions |
+| 📱 Lead Backend Developer | Novalut |
+| 💳 Backend Developer | Sanupay |
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 Payment Gateway — Kenyan Bank *(@ Sanupay)*
+> Developing a secure and scalable payment gateway system for a Kenyan bank, enabling seamless cross-border and local digital financial transactions.
+
+### 📱 Bank Mobile App — Backend Lead *(@ Novalut)*
+> Leading the backend team for a full-featured bank mobile application — overseeing architecture, API design, team delivery, and engineering standards.
+
+### 🏦 Santimpay Platform *(@ Santimpay Financial Solutions)*
+> Contributing as a Full Stack Developer on a fintech platform, building both frontend interfaces and robust backend services for financial operations.
+
+---
+
+## 🌟 Achievements
+
+- 💳 Architected and developed a **Payment Gateway** for a Kenyan bank, enabling secure and scalable digital payment infrastructure
+- 📱 Led the **backend team for a bank mobile app** at Novalut, driving architecture decisions and delivery
+- 🏦 Contributed end-to-end as a **Full Stack Developer** at Santimpay, spanning frontend and backend fintech systems
+- 🐳 Championed **Docker-based containerized deployments** for consistent and reliable environments
+- 🗄️ Designed and optimized **PostgreSQL** database schemas for high-performance financial applications
+- 🔧 Delivered clean, maintainable REST APIs using **Golang** and **Spring Boot** across multiple production systems
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koki-mekonnen&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koki-mekonnen&layout=compact&theme=default&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🚀 Current Projects
+## 😄 Hobbies & Interests
 
-> *(Add your current projects here — a short one-liner for each is perfect!)*
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔧 Project Name | Brief description of what it does | Go, PostgreSQL, Docker |
-| 🌐 Project Name | Brief description of what it does | Vue.js, Spring Boot |
+🎬 Watching Movies &nbsp;|&nbsp; 🍳 Cooking &nbsp;|&nbsp; 🎵 Worship Songs &nbsp;|&nbsp; 🙏 Spiritual Growth
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle) |
-| 📧 Email | test@gmail.com |
+| Platform | Details |
+|----------|---------|
+| 💼 LinkedIn | [Selamawit Mekonnen](https://www.linkedin.com/in/selamawit-mekonnen-40186b236/) |
+| 📧 Email | ezanawittadele@gmail.com |
+| 📍 Location | Addis Ababa, Ethiopia |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=grey" alt="Profile views" />
-</p>
-
-<p align="center"><em>"First, solve the problem. Then, write the code." — John Johnson</em></p>
+<p align="center"><em>"First, solve the problem. Then, write the code."</em></p>
