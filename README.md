@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Selamawit_Mekonnen-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ezanawittadele@gmail.com">
-    <img src="https://img.shields.io/badge/Email-test@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ezanawittadele@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=koki-mekonnen&style=flat&color=grey" />
 </p>
@@ -21,12 +21,6 @@
 
 Passionate Full Stack Developer with a strong backend focus, building reliable and scalable systems in the Fintech space. I enjoy crafting clean APIs, leading backend teams, and delivering payment infrastructure that works at scale.
 
-- 🏢 **Current Role:** Full Stack Developer @ **Santimpay Financial Solutions**
-- 💳 **Active Work:** Backend Developer on a **Payment Gateway for a Kenyan bank** @ Sanupay · Lead Backend Developer for a **Bank Mobile App** @ Novalut
-- 🌱 Currently deepening expertise in **Golang**, **Spring Boot**, and **distributed systems**
-- 🌍 Based in **Addis Ababa, Ethiopia**
-
----
 
 ## 🎓 Education
 
@@ -84,22 +78,12 @@ Passionate Full Stack Developer with a strong backend focus, building reliable a
 
 ---
 
-## 🌟 Achievements
-
-- 💳 Architected and developed a **Payment Gateway** for a Kenyan bank, enabling secure and scalable digital payment infrastructure
-- 📱 Led the **backend team for a bank mobile app** at Novalut, driving architecture decisions and delivery
-- 🏦 Contributed end-to-end as a **Full Stack Developer** at Santimpay, spanning frontend and backend fintech systems
-- 🐳 Championed **Docker-based containerized deployments** for consistent and reliable environments
-- 🗄️ Designed and optimized **PostgreSQL** database schemas for high-performance financial applications
-- 🔧 Delivered clean, maintainable REST APIs using **Golang** and **Spring Boot** across multiple production systems
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koki-mekonnen&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koki-mekonnen&layout=compact&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/koki-mekonnen&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/koki-mekonnen&layout=compact&theme=default&hide_border=true" height="165"/>
 </p>
 
 ---
